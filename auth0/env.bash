@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-TENANT=dev-srju6ck7bnf5oel6.us.auth0.com
-MGM_CLIENT_ID=MPelFMHXYYaLP2QeH0A1ZLMurtuBpx3s
-MGM_CLIENT_SECRET=AAoh69vvyMMest8rdUSajJuGVeDoQt5XTWxNrpNcOggpKm9Eoweo6hfDwLgq_xWI
-USER_EMAIL=amin.tazifor@gmail.com
-USER_PASSWORD=rocsom-qarkEm-8susko
